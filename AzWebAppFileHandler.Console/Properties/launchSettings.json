@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "AzWebAppFileHandler.Console - D": {
+      "commandName": "Project",
+      "commandLineArgs": "DOWNLOAD"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "AzWebAppFileHandler.Console - U": {
+      "commandName": "Project",
+      "commandLineArgs": "UPLOAD"
+    }
+  }
+}
